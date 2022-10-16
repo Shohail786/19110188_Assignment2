@@ -4,7 +4,7 @@
 #### The assignment is on the Face Recognition using the Eigenfaces. It uses the dimensionality reduction and linear algebra concepts. PCA (Principal Component Analysis) is a dimensionality reduction technique which uses Eigenvalues and EigenVectors to reduce the dimensionality.
 
 
-#### There are 450 images. These images are divided into train and test images. There are 405 train images and 45 test images.
+#### There are 450 images. These images are divided into train and test images. There are 405 train images and 45 test images. The dataset is taken from the Caltech Faces dataset.
 
 #### These are the steps:
 
